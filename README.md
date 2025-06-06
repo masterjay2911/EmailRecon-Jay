@@ -14,15 +14,43 @@ A comprehensive email reconnaissance tool created by Jay Mali that performs DNS 
 
 ## Installation
 
+### Windows
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/EmailRecon-Jay.git
+git clone https://github.com/masterhexo/EmailRecon-Jay.git
 cd EmailRecon-Jay
 ```
 
 2. Install the required dependencies:
 ```bash
 pip install -r requirements.txt
+```
+
+### Linux/Ubuntu
+1. Clone the repository:
+```bash
+git clone https://github.com/masterhexo/EmailRecon-Jay.git
+cd EmailRecon-Jay
+```
+
+2. Install Python3 and pip if not already installed:
+```bash
+sudo apt update
+sudo apt install python3 python3-pip
+```
+
+3. Install the required dependencies:
+```bash
+pip3 install -r requirements.txt
+```
+or
+```bash
+python3 -m pip install -r requirements.txt
+```
+
+If you get a permission error, you can use:
+```bash
+sudo pip3 install -r requirements.txt
 ```
 
 ## Usage
