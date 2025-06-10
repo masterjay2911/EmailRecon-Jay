@@ -17,7 +17,7 @@ A comprehensive email reconnaissance tool created by Jay Mali that performs DNS 
 ### Windows
 1. Clone the repository:
 ```bash
-git clone https://github.com/masterhexo/EmailRecon-Jay.git
+git clone https://github.com/masterjay2911/EmailRecon-Jay.git
 cd EmailRecon-Jay
 ```
 
